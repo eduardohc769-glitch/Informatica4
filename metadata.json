@@ -1,0 +1,6 @@
+{
+  "name": "Simulador y Configurador de Routers Wi-Fi",
+  "description": "Herramienta interactiva para aprender a configurar routers Wi-Fi (Huawei Claro, TP-Link y Movistar HGU), cambiando SSID, contraseñas y parámetros de red.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
